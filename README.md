@@ -28,7 +28,7 @@ conversor_monedas/
 
 ## 🚀 Cómo usar
 
-1. Abre `index.html` en tu navegador.
+1. Abre https://magicux.github.io/conversor_monedas/ en tu navegador.
 2. Ingresa un monto en pesos chilenos.
 3. Selecciona una moneda (ej: dólar, euro).
 4. Haz clic en "Convertir".
