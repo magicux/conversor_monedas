@@ -3,6 +3,8 @@
 
 Este proyecto permite convertir pesos chilenos a otras monedas extranjeras usando datos en tiempo real desde la API de [mindicador.cl](https://mindicador.cl/). Además, muestra un gráfico con el historial de los últimos 10 días del valor de la moneda seleccionada.
 
+Visita la página en https://magicux.github.io/conversor_monedas/
+
 ## 🧰 Tecnologías utilizadas
 
 - HTML5, CSS3 (fuente moderna: Inter)
